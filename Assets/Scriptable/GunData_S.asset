@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3dcd0d9608536445a6fc91503f526c1, type: 3}
+  m_Name: GunData_S
+  m_EditorClassIdentifier: 
+  shotClip: {fileID: 8300000, guid: ba27d4123809541d7bc78ffd4d363dd1, type: 3}
+  reloadClip: {fileID: 8300000, guid: 479d94af985554c7e9f8a50c3eeea6d1, type: 3}
+  fireRate: 0.66
+  reloadTime: 2.44
